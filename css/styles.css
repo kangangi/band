@@ -1,0 +1,24 @@
+img{
+  width: 250px;
+  float: left;
+  border: 10px solid yellow;
+}
+.text{
+  width: 400px;
+  float: right;
+}
+.about{
+  width: 400px;
+  float: right;
+  color: yellow;
+}
+body{
+  background-color: gray;
+}
+h1{
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  font-family: monospace;
+  font-weight: bold;
+}
